@@ -116,6 +116,7 @@
     <Compile Include="Refinery\AmmoniaElectrolyzer.cs" />
     <Compile Include="Propulsion\ThermalNozzleController.cs" />
     <Compile Include="Propulsion\InterstellarMagneticNozzleControllerFX.cs" />
+    <Compile Include="Refinery\MethanePyrolyser.cs" />
     <Compile Include="Refinery\ReverseWaterGasShift.cs" />
     <Compile Include="Refinery\HeavyWaterElectroliser.cs" />
     <Compile Include="Refinery\WaterGasShift.cs" />
